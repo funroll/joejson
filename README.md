@@ -56,6 +56,6 @@ Frequently asked questions
 
 **Really?**: YES! Seriously, just try it. You WILL love it, once your brain adapts. If you use joejson for a not-tiny project and you don't like it, you can come to Manhattan and I will buy you a beer. As long as it's still 2014.
 
-But wait: "you're just some guy. There's no joejson.org. This isn't even `https://github.com/joejson/joejson`. What if you take this page down or something happens?" It makes no difference. You have already comprehended those two rules if you've gotten to the bottom of the page, so you get it. And maybe you'll explain it to somebody else. But the rules are the thing that matters. And they are simple enough to live on, no matter what happens this page.
+**But wait**: "you're just some guy. There's no joejson.org. This isn't even `https://github.com/joejson/joejson`. What if you take this page down or something happens?" It makes no difference. You have already comprehended those two rules if you've gotten to the bottom of the page, so you get it. And maybe you'll explain it to somebody else. But the rules are the thing that matters. And they are simple enough to live on, no matter what happens this page.
 
 - funroll (Peter Jenkins) <peter@funroll.co>, August 17, 2014
