@@ -38,7 +38,9 @@ Frequently asked questions
 
 **Version**: nope.
 
-**Name**: So there's lots of json libraries, and most things you think of are taken, if they sounds pretty good. joejson sounds kind of nice and it's easy to type.
+**Name**: So there's lots of json libraries, and most things you think of are taken, if they sound pretty good. joejson sounds kind of nice and it's easy to type.
+
+**joeson?**: No, too much like joe's son. No Joe-San either.
 
 **json?**; Yeah. joejson is always json. just not the other way around.
 
