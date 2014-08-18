@@ -16,7 +16,9 @@ Here's the full spec for joejson. It's two rules:
 1. Whenever you have json in string form, the outer element MUST be a dictionary. You can't have an array at the top level... just add a dictionary with a single key telling you what the array is.
 2. All keys in a json dictionary MUST be known at compile time.
 
-Everything below is a hot mess with lots of neat insights in it. But if you follow those two rules, you are using joejson. And those two rules will always be everything that makes up joejson. But keep reading and there's an offer of free beer somewhere.
+Everything below is a hot mess with lots of neat insights in it. But if you follow those two rules, you are using joejson. And **those two rules will always be the everything that makes up joejson**. They won't change and no new ones will be added and neither will be taken away.
+
+So if you understand those two rules, you get it. That's joejson. You can stop reading. But if you keep going, there's an offer of free beer somewhere.
 
 Tell me more.
 -------------
@@ -37,6 +39,8 @@ Frequently asked questions
 **Version**: nope.
 
 **Name**: So there's lots of json libraries, and most things you think of are taken, if they sounds pretty good. joejson sounds kind of nice and it's easy to type.
+
+**json?**; Yeah. joejson is always json. just not the other way around.
 
 **Performance**: Yes! You say, but I like dictionaries. I'm doing many operations, and I need logarithmic search time. So put your data in a tree, or a min-heap, or whatever. But when you serialize to json, you need to convert it back to an array. Which forces you to think about sorting. Which is a good thing.
 
